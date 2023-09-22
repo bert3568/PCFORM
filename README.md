@@ -1,6 +1,6 @@
 # PCFORM
 
-Professor formador
+Professor formador.
 
 Sou formado em Ciências Biológicas licenciatura e minha atuação de Professor.
 

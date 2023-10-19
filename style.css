@@ -6,6 +6,5 @@ p {
 h1 {
     text-align: center;
     font-size: 34px;
-    text-decoration-line: overline;
-    text-decoration-line: underline;
+    text-decoration-line: overline underline;
 }

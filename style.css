@@ -16,3 +16,11 @@ h1 {
 #paragrf02{
     color: #000000
 }
+
+.destaque{
+    color:rgb(89, 94, 83);
+    background-color: rgb(78, 112, 156, 0.596);
+    font-style: italic;
+    text-decoration: dotted;
+    font-weight: bold;
+}

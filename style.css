@@ -25,11 +25,16 @@ h1 {
     font-weight: bold;
 }
 
-img{
+#topo{
     background-color: crimson;
     padding: 20px;
     max-height: 40%;
     max-width: 40%;
     margin:auto;
     display: block;
+}
+
+#baixo{
+    background-color: rgb(8, 77, 37) 220, 103);
+
 }

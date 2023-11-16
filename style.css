@@ -35,10 +35,10 @@ h1 {
 }
 
 #baixo{
-    background-color: rgb(2, 5, 3);
+    background-color: rgb(18, 56, 31);
     padding: 5px;
-    max-height: 40%;
-    max-width: 40%;
+    max-height: 5%;
+    max-width: 5%;
     margin:auto;
     display: block;
 }

@@ -37,8 +37,8 @@ h1 {
 #baixo{
     background-color: rgb(175, 228, 193);
     padding: 5px;
-    max-height: 5%;
-    max-width: 5%;
+    max-height: 40%;
+    max-width: 40%;
     margin:auto;
     display: block;
 }

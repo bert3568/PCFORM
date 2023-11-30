@@ -57,3 +57,7 @@ header{
     border-bottom: red 10px solid;
     color:rgb(0, 0, 0)
 }
+#menu{
+    font-size: 15px;
+    color: beige;
+}

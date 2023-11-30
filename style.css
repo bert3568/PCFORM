@@ -54,7 +54,7 @@ h1 {
 }
 header{
     text-align: center;
-    font-size: 45px;
+    font-size: 30px;
     padding: 40px;
     background-color: rgb(146, 174, 199);
     border-bottom: red 10px solid;
@@ -62,7 +62,7 @@ header{
 }
 
 #menu{
-    font-size: 30px;
+    font-size: 25px;
     color: beige;
     text-align: center;
 }

@@ -65,4 +65,5 @@ header{
     font-size: 25px;
     color: beige;
     text-align: center;
+    justify-content: space-around;
 }
